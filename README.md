@@ -54,12 +54,12 @@ This project explores retail sales data to analyze sales trends, top-selling pro
 - **Line Plot**: Daily sales trend with a rolling average.
 
 ## Education
--Spring 2020 - Fall 2025
--**Bachelor of Business Administration: Business Administration and Management**
--Nobel University - *Los Angeles, California*
--Fall 2015 - December 2018
--**Associate of Arts: Liberal Art and Sciences**
--Los Angeles City College - *Los Angeles, California*
+Spring 2020 - Fall 2025 <br>
+**Bachelor of Business Administration: Business Administration and Management** <br>
+Nobel University / *Los Angeles, California* <br>
+Fall 2015 - December 2018 <br>
+**Associate of Arts: Liberal Art and Sciences** <br>
+Los Angeles City College / *Los Angeles, California* 
 
 ## Certificates
 ## Contact
