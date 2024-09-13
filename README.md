@@ -13,7 +13,7 @@ I am actively building my skills in data manipulation, exploratory data analysis
 * Excel (pivot tables, VLOOKUP, data analysis)
 * Power BI
 * Tableau
-* Business Knowledge (financial analysis, marketing, operations)
+* Business Knowledge (strategic planning, risk analysis, marketing, operations, customer insights)
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ I am actively building my skills in data manipulation, exploratory data analysis
     - *[Project 3: A/B Testing in E-commerce](#project-3-ab-testing-in-e-commerce)*
 - [Education](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#education)
 - [Certificates](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](
+- [Contact](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#contact)
 
 
   ## Portfolia Projects
@@ -65,4 +65,12 @@ Fall 2015 - December 2018 <br>
 Los Angeles City College / *Los Angeles, California* 
 
 ## Certificates
+**Google Data Analytics Certificate** by Google: Completed detailed training on data analysis, data visualization, and critical thinking. <br>
+**Excel Skills for Business Specialization** by Macquarie University: Developed advanced Excel skills, including data analysis, functions, and business problem-solving. <br>
+**SQL for Data Science Specialization** by University of California / Davis: Gained proficiency in SQL for data manipulation, querying databases, and working with large datasets. <br>
+**Python for Everybody** by University of Michigan: Learned statistical methods and techniques using Python for data analysis and interpretation. <br>
+**Digital Marketing Specialization** by the University of Illinois: Achieved training in digital marketing, including A/B testing and analytics, and gained skills in optimizing marketing and e-commerce.
+
 ## Contact
+[LinkedIn:](https://www.linkedin.com/in/khaliunerkhembayar/)
+[Email:](mailto:erkh.khaliun@gmail.com)
