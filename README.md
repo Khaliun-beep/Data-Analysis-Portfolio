@@ -72,5 +72,5 @@ Los Angeles City College / *Los Angeles, California*
 **Digital Marketing Specialization** by the University of Illinois: Achieved training in digital marketing, including A/B testing and analytics, and gained skills in optimizing marketing and e-commerce.
 
 ## Contact
-[LinkedIn:](https://www.linkedin.com/in/khaliunerkhembayar/)
-[Email:](mailto:erkh.khaliun@gmail.com)
+LinkedIn:(https://www.linkedin.com/in/khaliunerkhembayar/)
+Email:(mailto:erkh.khaliun@gmail.com)
