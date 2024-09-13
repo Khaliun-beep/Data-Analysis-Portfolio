@@ -4,7 +4,7 @@ I'm a Business Administration graduate student with a passion for turning data i
 
 I am actively building my skills in data manipulation, exploratory data analysis, and visualization, with projects focused on sales trends, retail analytics, and business performance optimization. My goal is to leverage my combined knowledge of business processes and data analytics to help organizations make data-driven decisions that drive growth.
 
-## Key Skills:
+## Key Skills
 
 * Python (pandas, numpy)
 * R
