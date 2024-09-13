@@ -1,7 +1,4 @@
-# Khaliun Erkhembayar  | Data Analyst
-### Contact ###
-  - LinkedIn: [Khaliun Erkhembayar](https://www.linkedin.com/in/khaliunerkhembayar/)
-  - Email: [erkh.khaliun@gmail.com](mailto:erkh.khaliun@gmail.com)
+# Khaliun Erkhembayar  | Data Analyst ### Contact ###  - LinkedIn: [Khaliun Erkhembayar](https://www.linkedin.com/in/khaliunerkhembayar/)  - Email: [erkh.khaliun@gmail.com](mailto:erkh.khaliun@gmail.com)
   
 ## About Me
 I'm a Business Administration graduate student with a passion for turning data into actionable insights. Throughout my academic journey, I’ve developed a strong foundation in business operations, management, and decision-making. Recently, I’ve complemented this background by taking several online courses in data analysis, SQL, Python, and data visualization, which has sparked my interest in becoming a Data Analyst.
