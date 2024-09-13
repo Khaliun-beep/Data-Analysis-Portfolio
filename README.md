@@ -1,6 +1,6 @@
 # Khaliun Erkhembayar  | Data Analyst
 ## About Me
-I am a final-year Business Administration student with a passion for turning data into actionable insights. Throughout my academic journey, I’ve developed a strong foundation in business operations, management, and decision-making. Recently, I’ve complemented this background by taking several online courses in data analysis, SQL, Python, and data visualization, which has sparked my interest in becoming a Data Analyst.
+I'm a Business Administration graduate student with a passion for turning data into actionable insights. Throughout my academic journey, I’ve developed a strong foundation in business operations, management, and decision-making. Recently, I’ve complemented this background by taking several online courses in data analysis, SQL, Python, and data visualization, which has sparked my interest in becoming a Data Analyst.
 
 I am actively building my skills in data manipulation, exploratory data analysis, and visualization, with projects focused on sales trends, retail analytics, and business performance optimization. My goal is to leverage my combined knowledge of business processes and data analytics to help organizations make data-driven decisions that drive growth.
 
@@ -65,7 +65,7 @@ Fall 2015 - December 2018 <br>
 Los Angeles City College / *Los Angeles, California* 
 
 ## Certificates
-**Google Data Analytics Certificate** by Google: Completed detailed training on data analysis, data visualization, and critical thinking. <br>
+**-Google Data Analytics Certificate** by Google: Completed detailed training on data analysis, data visualization, and critical thinking. <br>
 **Excel Skills for Business Specialization** by Macquarie University: Developed advanced Excel skills, including data analysis, functions, and business problem-solving. <br>
 **SQL for Data Science Specialization** by University of California / Davis: Gained proficiency in SQL for data manipulation, querying databases, and working with large datasets. <br>
 **Python for Everybody** by University of Michigan: Learned statistical methods and techniques using Python for data analysis and interpretation. <br>
