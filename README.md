@@ -66,10 +66,10 @@ Los Angeles City College / *Los Angeles, California*
 
 ## Certificates
 **-Google Data Analytics Certificate** by Google: Completed detailed training on data analysis, data visualization, and critical thinking. <br>
-**Excel Skills for Business Specialization** by Macquarie University: Developed advanced Excel skills, including data analysis, functions, and business problem-solving. <br>
-**SQL for Data Science Specialization** by University of California / Davis: Gained proficiency in SQL for data manipulation, querying databases, and working with large datasets. <br>
-**Python for Everybody** by University of Michigan: Learned statistical methods and techniques using Python for data analysis and interpretation. <br>
-**Digital Marketing Specialization** by the University of Illinois: Achieved training in digital marketing, including A/B testing and analytics, and gained skills in optimizing marketing and e-commerce.
+**-Excel Skills for Business Specialization** by Macquarie University: Developed advanced Excel skills, including data analysis, functions, and business problem-solving. <br>
+**-SQL for Data Science Specialization** by University of California / Davis: Gained proficiency in SQL for data manipulation, querying databases, and working with large datasets. <br>
+**-Python for Everybody** by University of Michigan: Learned statistical methods and techniques using Python for data analysis and interpretation. <br>
+**-Digital Marketing Specialization** by the University of Illinois: Achieved training in digital marketing, including A/B testing and analytics, and gained skills in optimizing marketing and e-commerce.
 
 ## Contact
 - LinkedIn: [Khaliun Erkhembayar](https://www.linkedin.com/in/khaliunerkhembayar/)
