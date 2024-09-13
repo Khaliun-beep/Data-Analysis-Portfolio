@@ -25,7 +25,7 @@ I am actively building my skills in data manipulation, exploratory data analysis
 
   ## Portfolia Projects
   
-### *[Retail Sales Data Analysis with Python and Seaborn]* (retail-sales-data-analysis-2022.ipynb)
+### *[Retail Sales Data Analysis with Python and Seaborn]* (https://github.com/Khaliun-beep/Projects/blob/main/retail-sales-data-analysis-2022.ipynb)
 
 
 **Project Overview**:
