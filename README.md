@@ -1,4 +1,8 @@
 # Khaliun Erkhembayar  | Data Analyst
+## Contact
+- LinkedIn: [Khaliun Erkhembayar](https://www.linkedin.com/in/khaliunerkhembayar/)
+- Email: [erkh.khaliun@gmail.com](mailto:erkh.khaliun@gmail.com)
+  
 ## About Me
 I'm a Business Administration graduate student with a passion for turning data into actionable insights. Throughout my academic journey, I’ve developed a strong foundation in business operations, management, and decision-making. Recently, I’ve complemented this background by taking several online courses in data analysis, SQL, Python, and data visualization, which has sparked my interest in becoming a Data Analyst.
 
@@ -17,6 +21,7 @@ I am actively building my skills in data manipulation, exploratory data analysis
 
 
 ## Table of Contents
+- [Contact](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#contact)
 - [About me](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#about-me)
 - [Skills](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#key-skills)
 - [Portfolio Projects](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#portfolia-projects)
@@ -26,7 +31,6 @@ I am actively building my skills in data manipulation, exploratory data analysis
     - *[Project 3: A/B Testing in E-commerce](#project-3-ab-testing-in-e-commerce)*
 - [Education](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#education)
 - [Certificates](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#contact)
 
 
 ## Portfolio Projects
@@ -71,6 +75,3 @@ Los Angeles City College / *Los Angeles, California*
 **- Python for Everybody** by University of Michigan: Learned statistical methods and techniques using Python for data analysis and interpretation. <br>
 **- Digital Marketing Specialization** by the University of Illinois: Achieved training in digital marketing, including A/B testing and analytics, and gained skills in optimizing marketing and e-commerce.
 
-## Contact
-- LinkedIn: [Khaliun Erkhembayar](https://www.linkedin.com/in/khaliunerkhembayar/)
-- Email: [erkh.khaliun@gmail.com](mailto:erkh.khaliun@gmail.com)
