@@ -19,7 +19,7 @@ I am actively building my skills in data manipulation, exploratory data analysis
 ## Table of Contents
 - [About me](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#about-me)
 - [Skills](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#key-skills)
-- [Portfolia Projects](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#portfolia-projects)
+- [Portfolio Projects](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#portfolia-projects)
 
     - *[Project 1: Retail Sales Data Analysis](https://github.com/Khaliun-beep/Projects/blob/main/retail-sales-data-analysis-2022.ipynb)*
     - *[Project 2: Customer Segmentation](#project-2-customer-segmentation)*
@@ -29,7 +29,7 @@ I am actively building my skills in data manipulation, exploratory data analysis
 - [Contact](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#contact)
 
 
-  ## Portfolia Projects
+  ## Portfolio Projects
   
  ### *1. Retail Sales Data Analysis with Python and Seaborn* <a href="https://github.com/Khaliun-beep/Projects/blob/main/retail-sales-data-analysis-2022.ipynb" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
 
