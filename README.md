@@ -21,9 +21,9 @@ I am actively building my skills in data manipulation, exploratory data analysis
 - [Skills](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#key-skills)
 - [Portfolia Projects](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#portfolia-projects)
 
-    - [Project 1: Retail Sales Data Analysis](https://github.com/Khaliun-beep/Projects/blob/main/retail-sales-data-analysis-2022.ipynb)
-    - [Project 2: Customer Segmentation](#project-2-customer-segmentation)
-    - [Project 3: A/B Testing in E-commerce](#project-3-ab-testing-in-e-commerce)
+    - *[Project 1: Retail Sales Data Analysis]*(https://github.com/Khaliun-beep/Projects/blob/main/retail-sales-data-analysis-2022.ipynb)
+    - *[Project 2: Customer Segmentation]*(#project-2-customer-segmentation)
+    - *[Project 3: A/B Testing in E-commerce]*(#project-3-ab-testing-in-e-commerce)
 
 
 
