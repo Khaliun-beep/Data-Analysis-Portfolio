@@ -1,1 +1,51 @@
-# Data-Analysis-Portfolio
+# Khaliun Erkhembayar  | Data Analyst
+## About Me
+I am a final-year Business Administration student with a passion for turning data into actionable insights. Throughout my academic journey, I’ve developed a strong foundation in business operations, management, and decision-making. Recently, I’ve complemented this background by taking several online courses in data analysis, SQL, Python, and data visualization, which has sparked my interest in becoming a Data Analyst.
+
+I am actively building my skills in data manipulation, exploratory data analysis, and visualization, with projects focused on sales trends, retail analytics, and business performance optimization. My goal is to leverage my combined knowledge of business processes and data analytics to help organizations make data-driven decisions that drive growth.
+
+## Key Skills:
+
+* Python (pandas, numpy)
+* R
+* Data Visualization (Seaborn, Matplotlib)
+* SQL (data querying and manipulation)
+* Excel (pivot tables, VLOOKUP, data analysis)
+* Power BI
+* Tableau
+* Business Knowledge (financial analysis, marketing, operations)
+
+
+## Table of Contents
+
+1. [Project 1: Retail Sales Data Analysis](#project-1-retail-sales-analysis)
+2. [Project 2: Customer Segmentation](#project-2-customer-segmentation)
+3. [Project 3: A/B Testing in E-commerce](#project-3-ab-testing-in-e-commerce)
+
+
+  ## Portfolia Projects
+  
+### *Retail Sales Data Analysis with Python and Seaborn*
+
+**Project Overview**:
+This project explores retail sales data to analyze sales trends, top-selling product categories, and visualize daily sales patterns. The goal is to provide insights into product performance and seasonal sales trends.
+
+**Dataset**
+- **transaction_date**: Date of the transaction.
+- **inventory_category**: Product category.
+- **sold_product_count**: Number of products sold.
+
+**Tools & Technologies**
+- **Python**: pandas, numpy
+- **Visualization**: Seaborn, Matplotlib
+- **Data Cleaning & Aggregation**: pandas
+
+**Key Insights**
+- **Top Categories**: Category A and B were the top sellers.
+- **Sales Trends**: A 7-day rolling average highlighted sales peaks around key events.
+
+**Visualizations**
+- **Bar Plot**: Top 10 product categories by count.
+- **Line Plot**: Daily sales trend with a rolling average.
+
+
