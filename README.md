@@ -55,7 +55,7 @@ This project explores retail sales data to analyze sales trends, top-selling pro
 
 ## Education
 Spring 2020 - Fall 2025 <br>
-**Bachelor of Business Administration: Business Administration and Management** <br>
+***Bachelor of Business Administration: Business Administration and Management*** <br>
 Nobel University / *Los Angeles, California* <br>
 Fall 2015 - December 2018 <br>
 **Associate of Arts: Liberal Art and Sciences** <br>
