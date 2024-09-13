@@ -1,5 +1,5 @@
 # Khaliun Erkhembayar  | Data Analyst 
-##Contact##<br>
+## Contact ##
 - LinkedIn: [Khaliun Erkhembayar](https://www.linkedin.com/in/khaliunerkhembayar/) <br>
 - Email: [erkh.khaliun@gmail.com](mailto:erkh.khaliun@gmail.com)
   
