@@ -18,14 +18,15 @@ I am actively building my skills in data manipulation, exploratory data analysis
 
 ## Table of Contents
 
-1. [Project 1: Retail Sales Data Analysis](#project-1-retail-sales-analysis)
+1. [Project 1: Retail Sales Data Analysis](retail-sales-data-analysis-2022.ipynb)
 2. [Project 2: Customer Segmentation](#project-2-customer-segmentation)
 3. [Project 3: A/B Testing in E-commerce](#project-3-ab-testing-in-e-commerce)
 
 
   ## Portfolia Projects
   
-### *Retail Sales Data Analysis with Python and Seaborn*
+### *[Retail Sales Data Analysis with Python and Seaborn]* (retail-sales-data-analysis-2022.ipynb)
+
 
 **Project Overview**:
 This project explores retail sales data to analyze sales trends, top-selling product categories, and visualize daily sales patterns. The goal is to provide insights into product performance and seasonal sales trends.
