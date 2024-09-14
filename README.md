@@ -81,8 +81,8 @@ This project explores Zara's sales data to uncover insights into sales performan
 tidyverse: A collection of R packages used for data manipulation and visualization.
 ggplot2: A data visualization package in R used for creating plots and charts.
 
-**Key Insights**
-Sales Volume vs. Price: The scatter plot illustrates the relationship between sales volume and price across different product categories. This visualization helps identify trends and patterns in how price impacts sales performance.
+**Key Insights** <b>
+Sales Volume vs. Price: The scatter plot illustrates the relationship between sales volume and price across different product categories. This visualization helps identify trends and patterns in how price impacts sales performance. <br>
 
 Impact of Promotions: The boxplot of sales volume by promotion status reveals how promotional activities influence sales. This insight is crucial for understanding the effectiveness of promotional strategies.
 
