@@ -73,9 +73,9 @@ This project explores Zara's sales data to uncover insights into sales performan
 **Tools and Technologies**
 
 - **R**: The primary programming language used for data analysis.
-- **tidyverse**: A collection of R packages used for data manipulation and visualization.
-- **ggplot2**: A data visualization package in R used for creating plots and charts.
-- **dplyr**: An essential R package for data manipulation
+    - **tidyverse**: A collection of R packages used for data manipulation and visualization.
+    - **ggplot2**: A data visualization package in R used for creating plots and charts.
+    - **dplyr**: An essential R package for data manipulation
 
 
 **Key Insights** 
