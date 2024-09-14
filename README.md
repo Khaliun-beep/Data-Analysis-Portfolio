@@ -60,6 +60,7 @@ This project explores retail sales data to analyze sales trends, top-selling pro
 
 - **Bar Plot**: Top 10 product categories by count.
 - **Line Plot**: Daily sales trend with a rolling average.
+  ##
 
 ### *2. ZARA Clothing Brand Sales Data Analysis with R* <a href="https://github.com/Khaliun-beep/Projects/blob/main/zara-sales-r.ipynb" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
    
