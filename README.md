@@ -43,7 +43,7 @@ This project explores retail sales data to analyze sales trends, top-selling pro
 
 **Dataset**
 
-transaction_date, inventory_category, sold_product_count
+(transaction_date, inventory_category, sold_product_count)
 
 **Tools & Technologies**
 
@@ -68,7 +68,7 @@ This project explores Zara's sales data to uncover insights into sales performan
 
 **Dataset**
 
-Product.ID, Product.Position, Promotion, Product.Category, Seasonal, Sales.Volume, Brand, URL, SKU, Name.
+(Product.ID, Product.Position, Promotion, Product.Category, Seasonal, Sales.Volume, Brand, URL, SKU, Name)
 
 **Tools and Technologies**
 
