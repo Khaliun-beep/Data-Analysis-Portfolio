@@ -65,7 +65,7 @@ This project explores retail sales data to analyze sales trends, top-selling pro
 ### *2. ZARA Clothing Brand Sales Data Analysis with R* <a href="https://github.com/Khaliun-beep/Projects/blob/main/zara-sales-with-r.ipynb" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
    
 **Project Overview**:
-This project explores Zara's sales data to uncover insights into sales performance across different product categories and promotional strategies. The analysis focuses on understanding the relationship between sales volume and price, as well as the impact of promotions and product position on sales. 
+This project explores Zara's sales data to uncover insights into sales performance across different product categories and promotional strategies. The analysis focuses on understanding the relationship between sales volume and price, as well as the impact of promotions and product position at the store. 
 
 **Dataset**
 
@@ -91,7 +91,7 @@ This project explores Zara's sales data to uncover insights into sales performan
 
 - **Scatter Plot**: Displays the relationship between sales volume and price, colored by product category.
 - **Box plot**: Compares sales volume by promotion status to assess the impact of promotions on sales.
-- **Bar Plot**: Counts of products by position 
+- **Bar Plot**: Counts sales of products by position at the store.
 
 
 ## Education
