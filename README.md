@@ -26,8 +26,8 @@ I am actively building my skills in data manipulation, exploratory data analysis
 - [Skills](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#key-skills)
 - [Portfolio Projects](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#portfolia-projects)
 
-    - *[Project 1: Retail Sales Data Analysis](https://github.com/Khaliun-beep/Projects/blob/main/retail-sales-data-analysis-2022.ipynb)*
-    - *[Project 2: ZARA Clothing Brand Sales Data Analysis with R](#project-2-customer-segmentation)*
+    - *[Project 1: Retail Sales Data Analysis with Python](https://github.com/Khaliun-beep/Projects/blob/main/retail-sales-data-analysis-2022.ipynb)*
+    - *[Project 2: ZARA Clothing Brand Sales Data Analysis with R](https://github.com/Khaliun-beep/Projects/blob/main/zara-sales-r.ipynb)*
     - *[Project 3: A/B Testing in E-commerce](#project-3-ab-testing-in-e-commerce)*
 - [Education](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#education)
 - [Certificates](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#certificates)
@@ -61,7 +61,7 @@ This project explores retail sales data to analyze sales trends, top-selling pro
 - **Bar Plot**: Top 10 product categories by count.
 - **Line Plot**: Daily sales trend with a rolling average.
 
-### *2. ZARA Clothing Brand Sales Data Analysis with R* <a href="https://github.com/Khaliun-beep/Projects/blob/main/retail-sales-data-analysis-2022.ipynb" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
+### *2. ZARA Clothing Brand Sales Data Analysis with R* <a href="https://github.com/Khaliun-beep/Projects/blob/main/zara-sales-r.ipynb" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
    
 **Project Overview**:
 This project explores Zara's sales data to uncover insights into sales performance across different product categories and promotional strategies. The analysis focuses on understanding the relationship between sales volume and price, as well as the impact of promotions and product position on sales. 
