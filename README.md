@@ -58,6 +58,41 @@ This project explores retail sales data to analyze sales trends, top-selling pro
 **Visualizations**
 - **Bar Plot**: Top 10 product categories by count.
 - **Line Plot**: Daily sales trend with a rolling average.
+  
+   ### *2. ZARA Clothing Brand Sales Data Analysis using R <a href="https://github.com/Khaliun-beep/Projects/blob/main/retail-sales-data-analysis-2022.ipynb" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
+   
+**Project Overview**
+This project explores Zara's sales data to uncover insights into sales performance across different product categories and promotional strategies. The analysis focuses on understanding the relationship between sales volume and price, as well as the impact of promotions and product categories on sales. This project utilizes data visualization techniques to present findings clearly and effectively.
+
+**Dataset**
+- Product.ID: Unique identifier for each product.
+- Product.Position: Position of the product in the store.
+- Promotion: Indicates if the product is on promotion (Yes/No).
+- Product.Category: Category of the product.
+- Seasonal: Indicates if the product is seasonal (Yes/No).
+- Sales.Volume: Number of units sold.
+- Brand: Brand of the product.
+- URL: Product URL.
+- SKU: Stock Keeping Unit identifier.
+- Name: Name of the product.
+
+**Tools and Technologies**
+- R: The primary programming language used for data analysis.
+tidyverse: A collection of R packages used for data manipulation and visualization.
+ggplot2: A data visualization package in R used for creating plots and charts.
+
+**Key Insights**
+Sales Volume vs. Price: The scatter plot illustrates the relationship between sales volume and price across different product categories. This visualization helps identify trends and patterns in how price impacts sales performance.
+
+Impact of Promotions: The boxplot of sales volume by promotion status reveals how promotional activities influence sales. This insight is crucial for understanding the effectiveness of promotional strategies.
+
+Product Category Performance: The bar plot showing the average sales volume by product category provides a comparative view of sales performance across different categories. This helps in identifying which categories drive higher sales.
+
+**Visualizations**
+Scatter Plot: Displays the relationship between sales volume and price, colored by product category.
+Boxplot: Compares sales volume by promotion status to assess the impact of promotions on sales.
+Bar Plot: Shows the average sales volume by product category, highlighting which categories perform best in terms of sales.
+
 
 ## Education
 Spring 2020 - Fall 2025 <br>
