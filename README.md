@@ -10,13 +10,12 @@ I am actively building my skills in data manipulation, exploratory data analysis
 
 ## Key Skills
 
-* Python (pandas, numpy)
+* Python (pandas, numpy, Seaborn, Matplotlib)
 * R (tidyverse, ggplot2, dplyr, tidyr)
-* Data Visualization (Seaborn, Matplotlib)
 * SQL (data querying and manipulation)
 * Excel (pivot tables, VLOOKUP, data analysis)
-* Power BI
-* Tableau
+* Power BI (reports and dashboards)
+* Tableau (visualizations and dashboards)
 * Business Knowledge (strategic planning, risk analysis, marketing, operations, customer insights)
 
 
