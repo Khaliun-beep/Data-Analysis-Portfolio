@@ -63,7 +63,7 @@ This project explores retail sales data to analyze sales trends, top-selling pro
 - **Bar Plot**: Top 10 product categories by count.
 - **Line Plot**: Daily sales trend with a rolling average.
 
-  ### *2. ZARA Clothing Brand Sales Data Analysis using R* <a href="https://github.com/Khaliun-beep/Projects/blob/main/retail-sales-data-analysis-2022.ipynb" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
+### *2. ZARA Clothing Brand Sales Data Analysis using R* <a href="https://github.com/Khaliun-beep/Projects/blob/main/retail-sales-data-analysis-2022.ipynb" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
    
 **Project Overview**
 This project explores Zara's sales data to uncover insights into sales performance across different product categories and promotional strategies. The analysis focuses on understanding the relationship between sales volume and price, as well as the impact of promotions and product categories on sales. 
