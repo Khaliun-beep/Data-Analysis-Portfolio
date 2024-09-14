@@ -65,7 +65,7 @@ This project explores retail sales data to analyze sales trends, top-selling pro
 
 ### *2. ZARA Clothing Brand Sales Data Analysis with R* <a href="https://github.com/Khaliun-beep/Projects/blob/main/retail-sales-data-analysis-2022.ipynb" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
    
-**Project Overview**
+**Project Overview**:
 This project explores Zara's sales data to uncover insights into sales performance across different product categories and promotional strategies. The analysis focuses on understanding the relationship between sales volume and price, as well as the impact of promotions and product categories on sales. 
 
 **Dataset**
