@@ -86,6 +86,8 @@ This project explores Zara's sales data to uncover insights into sales performan
 - **R**: The primary programming language used for data analysis.
 - **tidyverse**: A collection of R packages used for data manipulation and visualization.
 - **ggplot2**: A data visualization package in R used for creating plots and charts.
+- **dplyr**: An essential R package for data manipulation
+
 
 **Key Insights** 
 
@@ -93,13 +95,13 @@ This project explores Zara's sales data to uncover insights into sales performan
 
 - **Impact of Promotions**: The boxplot of sales volume by promotion status reveals how promotional activities influence sales. This insight is crucial for understanding the effectiveness of promotional strategies.
 
-- **Product Category Performance**: The bar plot showing the average sales volume by product category provides a comparative view of sales performance across different categories. This helps in identifying which categories drive higher sales.
+- **Product Position Distribution**: Examining the distribution of products across different positions.
 
 **Visualizations**
 
 - **Scatter Plot**: Displays the relationship between sales volume and price, colored by product category.
-- **Boxplot**: Compares sales volume by promotion status to assess the impact of promotions on sales.
-- **Bar Plot**: Shows the average sales volume by product category, highlighting which categories perform best in terms of sales.
+- **Box plot**: Compares sales volume by promotion status to assess the impact of promotions on sales.
+- **Bar Plot**: Counts of products by position 
 
 
 ## Education
