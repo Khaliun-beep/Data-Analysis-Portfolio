@@ -43,9 +43,7 @@ This project explores retail sales data to analyze sales trends, top-selling pro
 
 **Dataset**
 
-- **transaction_date**: Date of the transaction.
-- **inventory_category**: Product category.
-- **sold_product_count**: Number of products sold.
+transaction_date, inventory_category, sold_product_count
 
 **Tools & Technologies**
 
@@ -70,16 +68,7 @@ This project explores Zara's sales data to uncover insights into sales performan
 
 **Dataset**
 
-- Product.ID: Unique identifier for each product.
-- Product.Position: Position of the product in the store.
-- Promotion: Indicates if the product is on promotion (Yes/No).
-- Product.Category: Category of the product.
-- Seasonal: Indicates if the product is seasonal (Yes/No).
-- Sales.Volume: Number of units sold.
-- Brand: Brand of the product.
-- URL: Product URL.
-- SKU: Stock Keeping Unit identifier.
-- Name: Name of the product.
+Product.ID, Product.Position, Promotion, Product.Category, Seasonal, Sales.Volume, Brand, URL, SKU, Name.
 
 **Tools and Technologies**
 
