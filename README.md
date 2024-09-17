@@ -28,9 +28,9 @@ I am actively building my skills in data manipulation, exploratory data analysis
     - *[Project 1: Retail Sales Data Analysis with Python](https://github.com/Khaliun-beep/Projects/blob/main/retail-sales-data-analysis-2022.ipynb)*
     - *[Project 2: ZARA Clothing Brand Sales Data Analysis with R](https://github.com/Khaliun-beep/Projects/blob/main/zara-sales-with-r.ipynb)*
     - *[Project 3: E-commerce Customer Behavior Data with SQL](https://github.com/Khaliun-beep/Projects/blob/main/Ecommerce_Customer_behavior.sql)* <br>
-                      -*[Visualiztion with Tableau 1.](https://github.com/Khaliun-beep/Projects/blob/main/Dashboard%202.png) <br>
-                      -*[Visualization wiyh Tableau 2.](https://github.com/Khaliun-beep/Projects/blob/main/Dashboard%201%20(1).png) <br>
-                      -*[Cleaned and Analyzed Data CSV](https://github.com/Khaliun-beep/Projects/blob/main/ecommerce_customer_segmentation.csv)
+                      -[1.Visualiztion with Tableau 1](https://github.com/Khaliun-beep/Projects/blob/main/Dashboard%202.png) <br>
+                      -[2.Visualization wiyh Tableau 2](https://github.com/Khaliun-beep/Projects/blob/main/Dashboard%201%20(1).png) <br>
+                      -[Cleaned and Analyzed Data CSV](https://github.com/Khaliun-beep/Projects/blob/main/ecommerce_customer_segmentation.csv)
 - [Education](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#education)
 - [Certificates](https://github.com/Khaliun-beep/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 
