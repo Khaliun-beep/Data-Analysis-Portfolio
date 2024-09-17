@@ -115,11 +115,11 @@ This project explores Zara's sales data to uncover insights into sales performan
   
 **Key Insights:**
 
-**Customer Segmentation:** Based on membership type (Gold, Silver, Bronze) and satisfaction levels. This segmentation provides insights into which groups are more likely to be loyal customers and which require targeted marketing efforts.
+- **Customer Segmentation:** Based on membership type (Gold, Silver, Bronze) and satisfaction levels. This segmentation provides insights into which groups are more likely to be loyal customers and which require targeted marketing efforts.
 
-**Spending Patterns by City:** SQL queries revealed that cities like San Francisco and New York generate the highest revenue, while cities like Chicago show higher satisfaction but lower spending.
+- **Spending Patterns by City:** SQL queries revealed that cities like San Francisco and New York generate the highest revenue, while cities like Chicago show higher satisfaction but lower spending.
 
-**Time-Based Behavior:** Customers who haven’t purchased recently (more than 60 days) are categorized as non-active. They might need to be targeted with re-engagement campaigns.
+- **Time-Based Behavior:** Customers who haven’t purchased recently (more than 60 days) are categorized as non-active. They might need to be targeted with re-engagement campaigns.
 
 
 **Visualizations:** Tableau Dashboards
