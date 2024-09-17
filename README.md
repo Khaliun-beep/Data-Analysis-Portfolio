@@ -40,25 +40,25 @@ I am actively building my skills in data manipulation, exploratory data analysis
  ### *1. Retail Sales Data Analysis with Python and Seaborn* <a href="https://github.com/Khaliun-beep/Projects/blob/main/retail-sales-data-analysis-2022.ipynb" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
 
 
-**Project Overview**:
+**Project Overview:**
 This project explores retail sales data to analyze sales trends, top-selling product categories, and visualize daily sales patterns. The goal is to provide insights into product performance and seasonal sales trends.
 
-**Dataset**
+**Dataset:**
 
 (transaction_date, inventory_category, sold_product_count)
 
-**Tools & Technologies**
+**Tools & Technologies:**
 
 - **Python**: pandas, numpy
 - **Visualization**: Seaborn, Matplotlib
 - **Data Cleaning & Aggregation**: pandas
 
-**Key Insights**
+**Key Insights:**
 
-- **Top Categories**: Category A and B were the top sellers.
-- **Sales Trends**: A 7-day rolling average highlighted sales peaks around key events.
+- **Top Categories:** Category A and B were the top sellers.
+- **Sales Trends:** A 7-day rolling average highlighted sales peaks around key events.
 
-**Visualizations**
+**Visualizations:**
 
 - **Bar Plot**: Top 10 product categories by count.
 - **Line Plot**: Daily sales trend with a rolling average.
@@ -66,14 +66,14 @@ This project explores retail sales data to analyze sales trends, top-selling pro
 
 ### *2. ZARA Clothing Brand Sales Data Analysis with R* <a href="https://github.com/Khaliun-beep/Projects/blob/main/zara-sales-with-r.ipynb" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
    
-**Project Overview**:
+**Project Overview:**
 This project explores Zara's sales data to uncover insights into sales performance across different product categories and promotional strategies. The analysis focuses on understanding the relationship between sales volume and price, as well as the impact of promotions and product position at the store. 
 
-**Dataset**
+**Dataset:**
 
 (Product.ID, Product.Position, Promotion, Product.Category, Seasonal, Sales.Volume, Brand, URL, SKU, Name)
 
-**Tools and Technologies**
+**Tools and Technologies:**
 
 - **R**: The primary programming language used for data analysis.
     - **tidyverse**: A collection of R packages used for data manipulation and visualization.
@@ -81,22 +81,22 @@ This project explores Zara's sales data to uncover insights into sales performan
     - **dplyr**: An essential R package for data manipulation
 
 
-**Key Insights** 
+**Key Insights:** 
 
-- **Sales Volume vs. Price**: The scatter plot illustrates the relationship between sales volume and price across different product categories. This visualization helps identify trends and patterns in how price impacts sales performance. <br>
+- **Sales Volume vs. Price:** The scatter plot illustrates the relationship between sales volume and price across different product categories. This visualization helps identify trends and patterns in how price impacts sales performance. <br>
 
-- **Impact of Promotions**: The boxplot of sales volume by promotion status reveals how promotional activities influence sales. This insight is crucial for understanding the effectiveness of promotional strategies.
+- **Impact of Promotions:** The boxplot of sales volume by promotion status reveals how promotional activities influence sales. This insight is crucial for understanding the effectiveness of promotional strategies.
 
-- **Product Position**: Examining the products across different positions.
+- **Product Position:** Examining the products across different positions.
 
-**Visualizations**
+**Visualizations:**
 
-- **Scatter Plot**: Displays the relationship between sales volume and price, colored by product category.
-- **Box plot**: Compares sales volume by promotion status to assess the impact of promotions on sales.
-- **Bar Plot**: Counts sales of products by position at the store.
+- **Scatter Plot:** Displays the relationship between sales volume and price, colored by product category.
+- **Box plot:** Compares sales volume by promotion status to assess the impact of promotions on sales.
+- **Bar Plot:** Counts sales of products by position at the store.
 ##
 
-### *3. E-commerce Customer Behavior Analysis with SQL <a href="https://github.com/Khaliun-beep/Projects/blob/main/ecommerce-customer-behavior.sql" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
+### *3. E-commerce Customer Behavior Analysis with SQL* <a href="https://github.com/Khaliun-beep/Projects/blob/main/ecommerce-customer-behavior.sql" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
 
 
 **Project Overview:** This project focuses on analyzing customer behavior data from an e-commerce platform to understand customer segmentation, satisfaction levels, and purchase patterns. The goal of the analysis is to segment customers based on their behavior and provide actionable insights that can help enhance retention strategies and optimize marketing efforts.
@@ -111,7 +111,8 @@ This project explores Zara's sales data to uncover insights into sales performan
 - **PostgreSQL:** The database management system used for handling the data.
 - **DBeaver:** A universal SQL client used for querying the database and performing data manipulation.
 - **Tableau:** Data visualization
-- 
+  
+  
 **Key Insights:**
 
 **Customer Segmentation:** Based on membership type (Gold, Silver, Bronze) and satisfaction levels. This segmentation provides insights into which groups are more likely to be loyal customers and which require targeted marketing efforts.
@@ -120,14 +121,15 @@ This project explores Zara's sales data to uncover insights into sales performan
 
 **Time-Based Behavior:** Customers who haven’t purchased recently (more than 60 days) are categorized as non-active. They might need to be targeted with re-engagement campaigns.
 
+
 **Visualizations:** Tableau Dashboards
 
-*Dashboard 1:* City-Wise Customer Ratings and Discount Impact
-**Bar Chart:** Displays average customer ratings by city, showcasing how different cities (Chicago, Houston, Los Angeles, Miami, New York, and San Francisco) perform in terms of customer satisfaction.
-**Bubble Chart:** Compares total spend with days since the last purchase by city, segmented by whether a discount was applied. This helps identify whether discounts influence spending and how long customers have gone without making a purchase.
-*Dashboard 2:* Customer Segmentation and Loyalty Analysis
-**Scatter Plot:** Segments customers by loyalty status and satisfaction level across membership types (Bronze, Gold, and Silver), highlighting which groups are more satisfied or unsatisfied with their experience.
-**Bar Chart:** Displays total spend by membership type and satisfaction level, emphasizing which customer groups contribute the most to total revenue based on their membership and satisfaction.
+*Dashboard 1:* City-Wise Customer Ratings and Discount Impact <br>
+**Bar Chart:** Displays average customer ratings by city, showcasing how different cities (Chicago, Houston, Los Angeles, Miami, New York, and San Francisco) perform in terms of customer satisfaction. <br>
+**Bubble Chart:** Compares total spend with days since the last purchase by city, segmented by whether a discount was applied. This helps identify whether discounts influence spending and how long customers have gone without making a purchase. <br>
+*Dashboard 2:* Customer Segmentation and Loyalty Analysis <br>
+**Scatter Plot:** Segments customers by loyalty status and satisfaction level across membership types (Bronze, Gold, and Silver), highlighting which groups are more satisfied or unsatisfied with their experience. <br>
+**Bar Chart:** Displays total spend by membership type and satisfaction level, emphasizing which customer groups contribute the most to total revenue based on their membership and satisfaction.<br>
 **Bubble Chart:** Analyzes total spend with days since the last purchase, segmented by whether a discount was applied, showing which segments are influenced by discounts.
 
 
