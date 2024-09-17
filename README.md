@@ -124,12 +124,12 @@ This project explores Zara's sales data to uncover insights into sales performan
 
 **Visualizations:** Tableau Dashboards
 
-*Dashboard 1: *City-Wise Customer Ratings and Discount Impact*<ahref="202.pnghttps://github.com/Khaliunbeep/Projects/blob/main/Dashboard%201%20(1)" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
+- Dashboard 1: *City-Wise Customer Ratings and Discount Impact* <a href="https://github.com/Khaliun-beep/Projects/blob/main/Dashboard%201%20(1).png" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
 
 **Bar Chart:** Displays average customer ratings by city, showcasing how different cities (Chicago, Houston, Los Angeles, Miami, New York, and San Francisco) perform in terms of customer satisfaction. <br>
 **Bubble Chart:** Compares total spend with days since the last purchase by city, segmented by whether a discount was applied. This helps identify whether discounts influence spending and how long customers have gone without making a purchase. <br>
 
-*Dashboard 2: *Customer Segmentation and Loyalty Analysis* <a href="https://github.com/Khaliun-beep/Projects/blob/main/Dashboard%202.png" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
+- Dashboard 2: *Customer Segmentation and Loyalty Analysis* <a href="https://github.com/Khaliun-beep/Projects/blob/main/Dashboard%202.png" target="_blank" style="display: inline-block; padding: 8px 16px; font-size: 14px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 4px;">Click Here</a>
 
 **Scatter Plot:** Segments customers by loyalty status and satisfaction level across membership types (Bronze, Gold, and Silver), highlighting which groups are more satisfied or unsatisfied with their experience. <br>
 **Bar Chart:** Displays total spend by membership type and satisfaction level, emphasizing which customer groups contribute the most to total revenue based on their membership and satisfaction.<br>
