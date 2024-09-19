@@ -137,7 +137,7 @@ This project explores Zara's sales data to uncover insights into sales performan
 
 
 ## Education
-Spring 2020 - Fall 2025 <br>
+Spring 2020 - Fall 2024 <br>
 ****Bachelor of Business Administration: Business Administration and Management**** <br>
 Nobel University / *Los Angeles, California* <br>
 
